@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAzur">#F1F5F8</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDarkPink">#fe104d</color>
+    <color name="colorPrimaryDarkLogin">#008B8B</color>
+    <color name="colorGraylight">#FAFAFA</color>
+    <color name="colorStartRed">#CD5C5C</color>
+    <color name="colorEndRed">#F08080</color>
+    <color name="colorCoral">#FF7F50</color>
+    <color name="colorSteelBlue">#4682B4</color>
+    <color name="colorIndianRed">#CD5C5C</color>
+    <color name="colorPrimaryDarkPopup">#008B8B</color>
+    <color name="colorPrimaryDarkModern">#2F4F4F</color>
+    <color name="colorbackground">#FCFCFC</color>
+    <color name="colorlightgrayline">#EDEDED</color>
+    <color name="colorbrown">#A52A2A</color>
+    <color name="colorcadetblue">#5F9EAD</color>
+    <color name="colorchocolate">#D2691E </color>
+    <color name="colorlimegreen">#32CD32</color>
+    <color name="colordarkcoral">#FF7F50</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colortext1">#000000</color>
+    <color name="colortext2">#FFFFFF</color>
+    <color name="colorbackground2">#F3F3F3</color>
+    <color name="colorblack">#000000</color>
+    <color name="colordarkred">#DC143C</color>
+    <color name="colorPrimaryP3">#000000</color>
+    <color name="colorPrimaryDarkP3">#000000</color>
+    <color name="colorofBlack">#181818</color>
+    <color name="colorGrey">#717171</color>
+    <color name="colorPrimaryP">#292929</color>
+    <color name="colorPrimaryDarkP">#151516</color>
+    <color name="colorBlack">#000000</color>
+</resources>
